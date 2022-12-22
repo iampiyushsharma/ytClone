@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-## Available Scripts.\ Open[http://yt-clone-piyush-jzevr9btk-iampiyushsharma.vercel.app]
+## Link of the deployed site[http://yt-clone-piyush-jzevr9btk-iampiyushsharma.vercel.app]
 
 ## Available Scripts
 
